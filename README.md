@@ -1,4 +1,4 @@
-Code quality: ![Maven Build](https://github.com/tommens/calculator-cucumber/actions/workflows/maven.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=yannmarchelli_timerstopwatch-project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=yannmarchelli_timerstopwatch-project)
 
 # TimerStopWatch-Project
 Java implementation of a statechart with Timer and Stopwatch functionality.
